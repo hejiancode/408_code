@@ -1,0 +1,4 @@
+﻿  Sqlist_code.c
+E:\visualstudio\408_Sqlist\Sqlist_code.c(115,9): warning C4101: “a”: 未引用的局部变量
+E:\visualstudio\408_Sqlist\Sqlist_code.c(135): warning C4715: “Alter_Locate_Elem”: 不是所有的控件路径都返回值
+  408_Sqlist.vcxproj -> E:\visualstudio\408_Sqlist\x64\Debug\408_Sqlist.exe
