@@ -1,0 +1,28 @@
+﻿  link_list.c
+E:\visualstudio\Link_list\link_list.c(304,13): warning C4047: “函数”:“LinkList *”与“LinkList **”的间接级别不同
+E:\visualstudio\Link_list\link_list.c(304,11): warning C4024: “InitList”: 形参和实参 1 的类型不同
+E:\visualstudio\Link_list\link_list.c(313,14): warning C4047: “函数”:“LinkList *”与“LinkList **”的间接级别不同
+E:\visualstudio\Link_list\link_list.c(313,12): warning C4024: “ShowList”: 形参和实参 1 的类型不同
+E:\visualstudio\Link_list\link_list.c(315,52): warning C4047: “函数”:“LinkList *”与“LinkList **”的间接级别不同
+E:\visualstudio\Link_list\link_list.c(315,50): warning C4024: “LengthList”: 形参和实参 1 的类型不同
+E:\visualstudio\Link_list\link_list.c(352,21): warning C4047: “函数”:“LinkList *”与“LinkList **”的间接级别不同
+E:\visualstudio\Link_list\link_list.c(352,19): warning C4024: “CreateListHead”: 形参和实参 1 的类型不同
+E:\visualstudio\Link_list\link_list.c(356,21): warning C4047: “函数”:“LinkList *”与“LinkList **”的间接级别不同
+E:\visualstudio\Link_list\link_list.c(356,19): warning C4024: “CreateListTail”: 形参和实参 1 的类型不同
+E:\visualstudio\Link_list\link_list.c(365,29): warning C4047: “函数”:“LinkList *”与“LinkList **”的间接级别不同
+E:\visualstudio\Link_list\link_list.c(365,27): warning C4024: “Insert_Locate_List”: 形参和实参 1 的类型不同
+E:\visualstudio\Link_list\link_list.c(380,27): warning C4047: “函数”:“LinkList *”与“LinkList **”的间接级别不同
+E:\visualstudio\Link_list\link_list.c(380,25): warning C4024: “Insert_Elem_List”: 形参和实参 1 的类型不同
+E:\visualstudio\Link_list\link_list.c(392,29): warning C4047: “函数”:“LinkList *”与“LinkList **”的间接级别不同
+E:\visualstudio\Link_list\link_list.c(392,27): warning C4024: “Delete_locate_List”: 形参和实参 1 的类型不同
+E:\visualstudio\Link_list\link_list.c(406,21): warning C4047: “函数”:“LinkList *”与“LinkList **”的间接级别不同
+E:\visualstudio\Link_list\link_list.c(406,19): warning C4024: “Alter_Elem”: 形参和实参 1 的类型不同
+E:\visualstudio\Link_list\link_list.c(420,28): warning C4047: “函数”:“LinkList *”与“LinkList **”的间接级别不同
+E:\visualstudio\Link_list\link_list.c(420,26): warning C4024: “Alter_Locate_Elem”: 形参和实参 1 的类型不同
+E:\visualstudio\Link_list\link_list.c(432,26): warning C4047: “函数”:“LinkList *”与“LinkList **”的间接级别不同
+E:\visualstudio\Link_list\link_list.c(432,24): warning C4024: “Get_Locate_Elem”: 形参和实参 1 的类型不同
+E:\visualstudio\Link_list\link_list.c(444,26): warning C4047: “函数”:“LinkList *”与“LinkList **”的间接级别不同
+E:\visualstudio\Link_list\link_list.c(444,24): warning C4024: “Get_Elem_Locate”: 形参和实参 1 的类型不同
+E:\visualstudio\Link_list\link_list.c(453,16): warning C4047: “函数”:“LinkList *”与“LinkList **”的间接级别不同
+E:\visualstudio\Link_list\link_list.c(453,14): warning C4024: “ClearList”: 形参和实参 1 的类型不同
+  Link_list.vcxproj -> E:\visualstudio\Link_list\x64\Debug\Link_list.exe
