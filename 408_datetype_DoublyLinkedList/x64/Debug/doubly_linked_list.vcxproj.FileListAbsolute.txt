@@ -1,0 +1,2 @@
+E:\visualstudio\408code\doubly_linked_list\x64\Debug\doubly_linked_list.exe
+E:\visualstudio\408code\408_datetype_DoublyLinkedList\x64\Debug\doubly_linked_list.exe
